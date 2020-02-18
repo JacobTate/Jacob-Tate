@@ -17,33 +17,6 @@ a:hover {
     text-decoration: none;
 }
 
-
-#carouselExampleCaptions {
-    border: solid 1px #007bff;
-    border-radius: 10px;
-    width: 100%;
-    margin: 20px;
-    left: -20px;
-}
-
-.carousel-control-next-icon,
-.carousel-control-prev-icon {
-    background-color: black;
-    border-radius: 20%;
-}
-
-.carousel-caption {
-    bottom: 0%;
-    left: 0%;
-    width: 100%;
-    height: 10%;
-    background-color: white;
-    color: black;
-    border: solid 2px black;
-    border-radius: 5px;
-}
-
-
 .container {
     background-image: url("../images/tileable_wood_texture.png");
     width: 100%;
